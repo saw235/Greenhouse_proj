@@ -1,0 +1,9 @@
+## Compile to object files using
+
+	gcc -c file1.c
+
+## Link objects after compiling using 
+
+	gcc -o output file1.o file2.o
+
+
