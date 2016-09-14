@@ -1,6 +1,6 @@
 # Greenhouse_proj<br />
-Codes written for Raspberry Pi Greenhouse Project.
-<br />
+Codes done to interface RaspberryPI with various sensors for the Automated coldframe research project. Some are in Python, some are in C.
+
 <br />
 Guidelines to all collaborators:<br />
 1) Coding styles should follow closely to existing codes.<br />
