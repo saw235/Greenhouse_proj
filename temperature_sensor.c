@@ -41,10 +41,6 @@ int main()
   // Setup SPI bus
   setup_spi();
 
-  // The value returned by the A to D can jump around quite a bit, so 
-  // simply printing out the value isn't very useful. The bar graph
-  // is better because this hides the noise in the signal.
-
     v= read_adc(chan);
 
     //printf("%04f ",v);
